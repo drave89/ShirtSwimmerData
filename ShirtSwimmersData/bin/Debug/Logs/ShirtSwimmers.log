@@ -1,0 +1,219 @@
+21/09/2020 12:15:26 INFO - ============================================================
+21/09/2020 12:15:26 INFO - 
+21/09/2020 12:15:26 INFO - Start time: 09-21-2020 12:15:26 PM
+21/09/2020 12:15:26 INFO - 
+21/09/2020 12:15:26 INFO - ============================================================
+21/09/2020 12:15:26 INFO - 
+21/09/2020 12:15:48 DEBUG - Request failed with Call failed with status code 429 (Too Many Requests): GET https://api.opendota.com/api/matches/5603383199?significant=0. Waiting 00:00:01 before next retry. Retry attempt 1
+21/09/2020 12:15:49 DEBUG - Request failed with Call failed with status code 429 (Too Many Requests): GET https://api.opendota.com/api/matches/5603383199?significant=0. Waiting 00:00:02 before next retry. Retry attempt 2
+21/09/2020 12:15:51 DEBUG - Request failed with Call failed with status code 429 (Too Many Requests): GET https://api.opendota.com/api/matches/5603383199?significant=0. Waiting 00:00:03 before next retry. Retry attempt 3
+21/09/2020 12:15:54 ERROR - One or more errors occurred.
+21/09/2020 12:15:54 ERROR - Call failed with status code 429 (Too Many Requests): GET https://api.opendota.com/api/matches/5603383199?significant=0
+21/09/2020 12:15:54 INFO - 
+21/09/2020 12:15:54 INFO - ShirtSwimmers program completed in 00:00:28
+21/09/2020 12:15:54 INFO - 
+21/09/2020 12:19:43 INFO - ============================================================
+21/09/2020 12:19:43 INFO - 
+21/09/2020 12:19:43 INFO - Start time: 09-21-2020 12:19:43 PM
+21/09/2020 12:19:43 INFO - 
+21/09/2020 12:19:43 INFO - ============================================================
+21/09/2020 12:19:43 INFO - 
+21/09/2020 12:19:57 DEBUG - Request failed with Call failed with status code 429 (Too Many Requests): GET https://api.opendota.com/api/matches/5604755170?significant=0. Waiting 00:00:01 before next retry. Retry attempt 1
+21/09/2020 12:19:58 DEBUG - Request failed with Call failed with status code 429 (Too Many Requests): GET https://api.opendota.com/api/matches/5604755170?significant=0. Waiting 00:00:02 before next retry. Retry attempt 2
+21/09/2020 12:20:19 DEBUG - Request failed with Call failed with status code 429 (Too Many Requests): GET https://api.opendota.com/api/matches/5568479087?significant=0. Waiting 00:00:01 before next retry. Retry attempt 1
+21/09/2020 12:20:20 DEBUG - Request failed with Call failed with status code 429 (Too Many Requests): GET https://api.opendota.com/api/matches/5568479087?significant=0. Waiting 00:00:02 before next retry. Retry attempt 2
+21/09/2020 12:20:22 DEBUG - Request failed with Call failed with status code 429 (Too Many Requests): GET https://api.opendota.com/api/matches/5568479087?significant=0. Waiting 00:00:03 before next retry. Retry attempt 3
+21/09/2020 12:20:26 ERROR - One or more errors occurred.
+21/09/2020 12:20:26 ERROR - Call failed with status code 429 (Too Many Requests): GET https://api.opendota.com/api/matches/5568479087?significant=0
+21/09/2020 12:20:26 INFO - 
+21/09/2020 12:20:26 INFO - ShirtSwimmers program completed in 00:00:42
+21/09/2020 12:20:26 INFO - 
+21/09/2020 12:21:38 INFO - ============================================================
+21/09/2020 12:21:38 INFO - 
+21/09/2020 12:21:38 INFO - Start time: 09-21-2020 12:21:38 PM
+21/09/2020 12:21:38 INFO - 
+21/09/2020 12:21:38 INFO - ============================================================
+21/09/2020 12:21:38 INFO - 
+21/09/2020 12:21:38 INFO - https://api.opendota.com/api/players/2679394/matches
+21/09/2020 12:21:39 INFO - https://api.opendota.com/api/players/49314460/matches
+21/09/2020 12:21:40 INFO - https://api.opendota.com/api/players/156098196/matches
+21/09/2020 12:21:41 INFO - https://api.opendota.com/api/players/866464658/matches
+21/09/2020 12:21:41 INFO - https://api.opendota.com/api/players/96909728/matches
+21/09/2020 12:21:42 INFO - https://api.opendota.com/api/matches/5623858650
+21/09/2020 12:21:42 INFO - https://api.opendota.com/api/matches/5623818036
+21/09/2020 12:21:42 INFO - https://api.opendota.com/api/matches/5623798870
+21/09/2020 12:21:42 INFO - https://api.opendota.com/api/matches/5623776902
+21/09/2020 12:21:42 INFO - https://api.opendota.com/api/matches/5623744193
+21/09/2020 12:21:43 INFO - https://api.opendota.com/api/matches/5623713809
+21/09/2020 12:21:43 INFO - https://api.opendota.com/api/matches/5622513740
+21/09/2020 12:21:43 INFO - https://api.opendota.com/api/matches/5622475200
+21/09/2020 12:21:43 INFO - https://api.opendota.com/api/matches/5621982578
+21/09/2020 12:21:43 INFO - https://api.opendota.com/api/matches/5621937745
+21/09/2020 12:21:43 INFO - https://api.opendota.com/api/matches/5621887978
+21/09/2020 12:21:43 INFO - https://api.opendota.com/api/matches/5620592869
+21/09/2020 12:21:44 INFO - https://api.opendota.com/api/matches/5620577504
+21/09/2020 12:21:44 INFO - https://api.opendota.com/api/matches/5619227144
+21/09/2020 12:21:44 INFO - https://api.opendota.com/api/matches/5619209754
+21/09/2020 12:21:44 INFO - https://api.opendota.com/api/matches/5619191756
+21/09/2020 12:21:44 INFO - https://api.opendota.com/api/matches/5617854175
+21/09/2020 12:21:44 INFO - https://api.opendota.com/api/matches/5617834063
+21/09/2020 12:21:44 INFO - https://api.opendota.com/api/matches/5617815866
+21/09/2020 12:21:44 INFO - https://api.opendota.com/api/matches/5615149653
+21/09/2020 12:21:45 INFO - https://api.opendota.com/api/matches/5615128351
+21/09/2020 12:21:45 INFO - https://api.opendota.com/api/matches/5615097602
+21/09/2020 12:21:45 INFO - https://api.opendota.com/api/matches/5613639507
+21/09/2020 12:21:45 INFO - https://api.opendota.com/api/matches/5613615147
+21/09/2020 12:21:45 INFO - https://api.opendota.com/api/matches/5613596397
+21/09/2020 12:21:45 INFO - https://api.opendota.com/api/matches/5613561541
+21/09/2020 12:21:45 INFO - https://api.opendota.com/api/matches/5612230137
+21/09/2020 12:21:46 INFO - https://api.opendota.com/api/matches/5612205304
+21/09/2020 12:21:46 INFO - https://api.opendota.com/api/matches/5612179143
+21/09/2020 12:21:46 INFO - https://api.opendota.com/api/matches/5611965854
+21/09/2020 12:21:46 INFO - https://api.opendota.com/api/matches/5611942390
+21/09/2020 12:21:46 INFO - https://api.opendota.com/api/matches/5611915653
+21/09/2020 12:21:46 INFO - https://api.opendota.com/api/matches/5611889573
+21/09/2020 12:21:47 INFO - https://api.opendota.com/api/matches/5611856025
+21/09/2020 12:21:47 INFO - https://api.opendota.com/api/matches/5610614603
+21/09/2020 12:21:47 INFO - https://api.opendota.com/api/matches/5610553084
+21/09/2020 12:21:47 INFO - https://api.opendota.com/api/matches/5607673873
+21/09/2020 12:21:47 INFO - https://api.opendota.com/api/matches/5607657091
+21/09/2020 12:21:47 INFO - https://api.opendota.com/api/matches/5607640377
+21/09/2020 12:21:48 INFO - https://api.opendota.com/api/matches/5607621952
+21/09/2020 12:21:48 INFO - https://api.opendota.com/api/matches/5606294811
+21/09/2020 12:21:48 INFO - https://api.opendota.com/api/matches/5606278015
+21/09/2020 12:21:48 INFO - https://api.opendota.com/api/matches/5606261889
+21/09/2020 12:21:48 INFO - https://api.opendota.com/api/matches/5606237229
+21/09/2020 12:21:48 INFO - https://api.opendota.com/api/matches/5606219389
+21/09/2020 12:21:48 INFO - https://api.opendota.com/api/matches/5604961081
+21/09/2020 12:21:49 INFO - https://api.opendota.com/api/matches/5604868176
+21/09/2020 12:21:49 INFO - https://api.opendota.com/api/matches/5604853507
+21/09/2020 12:21:49 INFO - https://api.opendota.com/api/matches/5604833638
+21/09/2020 12:21:49 INFO - https://api.opendota.com/api/matches/5604812676
+21/09/2020 12:21:49 INFO - https://api.opendota.com/api/matches/5604794704
+21/09/2020 12:21:49 INFO - https://api.opendota.com/api/matches/5604775694
+21/09/2020 12:21:49 INFO - https://api.opendota.com/api/matches/5604755170
+21/09/2020 12:21:49 INFO - https://api.opendota.com/api/matches/5604605265
+21/09/2020 12:21:50 INFO - https://api.opendota.com/api/matches/5603399682
+21/09/2020 12:21:50 INFO - https://api.opendota.com/api/matches/5603383199
+21/09/2020 12:21:50 DEBUG - Request failed with Call failed with status code 429 (Too Many Requests): GET https://api.opendota.com/api/matches/5603383199?significant=0. Waiting 00:00:01 before next retry. Retry attempt 1
+21/09/2020 12:21:51 DEBUG - Request failed with Call failed with status code 429 (Too Many Requests): GET https://api.opendota.com/api/matches/5603383199?significant=0. Waiting 00:00:02 before next retry. Retry attempt 2
+21/09/2020 12:21:53 DEBUG - Request failed with Call failed with status code 429 (Too Many Requests): GET https://api.opendota.com/api/matches/5603383199?significant=0. Waiting 00:00:03 before next retry. Retry attempt 3
+21/09/2020 12:21:56 DEBUG - Request failed with Call failed with status code 429 (Too Many Requests): GET https://api.opendota.com/api/matches/5603383199?significant=0. Waiting 00:00:04 before next retry. Retry attempt 4
+21/09/2020 12:22:01 INFO - https://api.opendota.com/api/matches/5603269085
+21/09/2020 12:22:01 INFO - https://api.opendota.com/api/matches/5603232092
+21/09/2020 12:22:01 INFO - https://api.opendota.com/api/matches/5603200285
+21/09/2020 12:22:01 INFO - https://api.opendota.com/api/matches/5603162624
+21/09/2020 12:22:01 INFO - https://api.opendota.com/api/matches/5603122029
+21/09/2020 12:22:01 INFO - https://api.opendota.com/api/matches/5601975357
+21/09/2020 12:22:01 INFO - https://api.opendota.com/api/matches/5601942900
+21/09/2020 12:22:01 INFO - https://api.opendota.com/api/matches/5601916135
+21/09/2020 12:22:02 INFO - https://api.opendota.com/api/matches/5601895274
+21/09/2020 12:22:02 INFO - https://api.opendota.com/api/matches/5601856023
+21/09/2020 12:22:02 INFO - https://api.opendota.com/api/matches/5601827169
+21/09/2020 12:22:02 INFO - https://api.opendota.com/api/matches/5601791061
+21/09/2020 12:22:02 INFO - https://api.opendota.com/api/matches/5601774253
+21/09/2020 12:22:02 INFO - https://api.opendota.com/api/matches/5601752974
+21/09/2020 12:22:03 INFO - https://api.opendota.com/api/matches/5585284777
+21/09/2020 12:22:03 INFO - https://api.opendota.com/api/matches/5585252020
+21/09/2020 12:22:03 INFO - https://api.opendota.com/api/matches/5585175099
+21/09/2020 12:22:03 INFO - https://api.opendota.com/api/matches/5585151788
+21/09/2020 12:22:03 INFO - https://api.opendota.com/api/matches/5585134569
+21/09/2020 12:22:03 INFO - https://api.opendota.com/api/matches/5585115804
+21/09/2020 12:22:03 INFO - https://api.opendota.com/api/matches/5585059124
+21/09/2020 12:22:03 INFO - https://api.opendota.com/api/matches/5585044095
+21/09/2020 12:22:04 INFO - https://api.opendota.com/api/matches/5583670650
+21/09/2020 12:22:04 INFO - https://api.opendota.com/api/matches/5583657179
+21/09/2020 12:22:04 INFO - https://api.opendota.com/api/matches/5583638968
+21/09/2020 12:22:04 INFO - https://api.opendota.com/api/matches/5582277423
+21/09/2020 12:22:04 INFO - https://api.opendota.com/api/matches/5582256849
+21/09/2020 12:22:04 INFO - https://api.opendota.com/api/matches/5582232234
+21/09/2020 12:22:04 INFO - https://api.opendota.com/api/matches/5582211580
+21/09/2020 12:22:05 INFO - https://api.opendota.com/api/matches/5580528584
+21/09/2020 12:22:05 INFO - https://api.opendota.com/api/matches/5580509816
+21/09/2020 12:22:05 INFO - https://api.opendota.com/api/matches/5580488405
+21/09/2020 12:22:05 INFO - https://api.opendota.com/api/matches/5580420846
+21/09/2020 12:22:05 INFO - https://api.opendota.com/api/matches/5580396187
+21/09/2020 12:22:05 INFO - https://api.opendota.com/api/matches/5580312445
+21/09/2020 12:22:05 INFO - https://api.opendota.com/api/matches/5580276553
+21/09/2020 12:22:06 INFO - https://api.opendota.com/api/matches/5580168676
+21/09/2020 12:22:06 INFO - https://api.opendota.com/api/matches/5577438762
+21/09/2020 12:22:06 INFO - https://api.opendota.com/api/matches/5577418529
+21/09/2020 12:22:06 INFO - https://api.opendota.com/api/matches/5577404778
+21/09/2020 12:22:06 INFO - https://api.opendota.com/api/matches/5574549966
+21/09/2020 12:22:06 INFO - https://api.opendota.com/api/matches/5574529499
+21/09/2020 12:22:07 INFO - https://api.opendota.com/api/matches/5574512639
+21/09/2020 12:22:07 INFO - https://api.opendota.com/api/matches/5571560747
+21/09/2020 12:22:07 INFO - https://api.opendota.com/api/matches/5571535529
+21/09/2020 12:22:07 INFO - https://api.opendota.com/api/matches/5571510475
+21/09/2020 12:22:07 INFO - https://api.opendota.com/api/matches/5571488151
+21/09/2020 12:22:08 INFO - https://api.opendota.com/api/matches/5570130272
+21/09/2020 12:22:08 INFO - https://api.opendota.com/api/matches/5570100805
+21/09/2020 12:22:08 INFO - https://api.opendota.com/api/matches/5570065522
+21/09/2020 12:22:08 INFO - https://api.opendota.com/api/matches/5569627269
+21/09/2020 12:22:08 INFO - https://api.opendota.com/api/matches/5569594655
+21/09/2020 12:22:09 INFO - https://api.opendota.com/api/matches/5569542803
+21/09/2020 12:22:10 INFO - https://api.opendota.com/api/matches/5569499443
+21/09/2020 12:22:10 INFO - https://api.opendota.com/api/matches/5568561991
+21/09/2020 12:22:10 INFO - https://api.opendota.com/api/matches/5568516405
+21/09/2020 12:22:10 INFO - https://api.opendota.com/api/matches/5568479087
+21/09/2020 12:22:11 INFO - https://api.opendota.com/api/matches/5568454858
+21/09/2020 12:22:11 INFO - https://api.opendota.com/api/matches/5568406449
+21/09/2020 12:22:11 INFO - https://api.opendota.com/api/matches/5568380767
+21/09/2020 12:22:12 DEBUG - Request failed with Call failed with status code 429 (Too Many Requests): GET https://api.opendota.com/api/matches/5568380767?significant=0. Waiting 00:00:01 before next retry. Retry attempt 1
+21/09/2020 12:22:13 DEBUG - Request failed with Call failed with status code 429 (Too Many Requests): GET https://api.opendota.com/api/matches/5568380767?significant=0. Waiting 00:00:02 before next retry. Retry attempt 2
+21/09/2020 12:22:15 DEBUG - Request failed with Call failed with status code 429 (Too Many Requests): GET https://api.opendota.com/api/matches/5568380767?significant=0. Waiting 00:00:03 before next retry. Retry attempt 3
+21/09/2020 12:22:18 DEBUG - Request failed with Call failed with status code 429 (Too Many Requests): GET https://api.opendota.com/api/matches/5568380767?significant=0. Waiting 00:00:04 before next retry. Retry attempt 4
+21/09/2020 12:22:22 DEBUG - Request failed with Call failed with status code 429 (Too Many Requests): GET https://api.opendota.com/api/matches/5568380767?significant=0. Waiting 00:00:05 before next retry. Retry attempt 5
+21/09/2020 12:22:27 DEBUG - Request failed with Call failed with status code 429 (Too Many Requests): GET https://api.opendota.com/api/matches/5568380767?significant=0. Waiting 00:00:06 before next retry. Retry attempt 6
+21/09/2020 12:22:33 DEBUG - Request failed with Call failed with status code 429 (Too Many Requests): GET https://api.opendota.com/api/matches/5568380767?significant=0. Waiting 00:00:07 before next retry. Retry attempt 7
+21/09/2020 12:22:41 DEBUG - Request failed with Call failed with status code 429 (Too Many Requests): GET https://api.opendota.com/api/matches/5568380767?significant=0. Waiting 00:00:08 before next retry. Retry attempt 8
+21/09/2020 12:22:49 DEBUG - Request failed with Call failed with status code 429 (Too Many Requests): GET https://api.opendota.com/api/matches/5568380767?significant=0. Waiting 00:00:09 before next retry. Retry attempt 9
+21/09/2020 12:22:58 DEBUG - Request failed with Call failed with status code 429 (Too Many Requests): GET https://api.opendota.com/api/matches/5568380767?significant=0. Waiting 00:00:10 before next retry. Retry attempt 10
+21/09/2020 12:23:09 INFO - https://api.opendota.com/api/matches/5568354211
+21/09/2020 12:23:09 INFO - https://api.opendota.com/api/matches/5568331697
+21/09/2020 12:23:09 INFO - https://api.opendota.com/api/matches/5568298666
+21/09/2020 12:23:10 INFO - https://api.opendota.com/api/matches/5568239501
+21/09/2020 12:23:10 INFO - https://api.opendota.com/api/matches/5568213451
+21/09/2020 12:23:10 INFO - https://api.opendota.com/api/matches/5568194326
+21/09/2020 12:23:10 INFO - https://api.opendota.com/api/matches/5566815991
+21/09/2020 12:23:11 INFO - https://api.opendota.com/api/matches/5565394986
+21/09/2020 12:23:11 INFO - https://api.opendota.com/api/matches/5565371100
+21/09/2020 12:23:11 INFO - https://api.opendota.com/api/matches/5565347245
+21/09/2020 12:23:11 INFO - https://api.opendota.com/api/matches/5563906205
+21/09/2020 12:23:12 INFO - https://api.opendota.com/api/matches/5563880859
+21/09/2020 12:23:12 INFO - https://api.opendota.com/api/matches/5563855565
+21/09/2020 12:23:12 INFO - https://api.opendota.com/api/matches/5562397456
+21/09/2020 12:23:12 INFO - https://api.opendota.com/api/matches/5562375539
+21/09/2020 12:23:13 INFO - https://api.opendota.com/api/matches/5562359091
+21/09/2020 12:23:13 INFO - https://api.opendota.com/api/matches/5562338039
+21/09/2020 12:23:13 INFO - https://api.opendota.com/api/matches/5562320166
+21/09/2020 12:23:13 INFO - https://api.opendota.com/api/matches/5560895858
+21/09/2020 12:23:13 INFO - https://api.opendota.com/api/matches/5560872928
+21/09/2020 12:23:14 INFO - https://api.opendota.com/api/matches/5560853345
+21/09/2020 12:23:14 INFO - https://api.opendota.com/api/matches/5560840512
+21/09/2020 12:23:14 INFO - https://api.opendota.com/api/matches/5560813913
+21/09/2020 12:23:15 INFO - https://api.opendota.com/api/matches/5560793130
+21/09/2020 12:23:15 INFO - https://api.opendota.com/api/matches/5560582818
+21/09/2020 12:23:16 INFO - https://api.opendota.com/api/matches/5560543077
+21/09/2020 12:23:16 INFO - https://api.opendota.com/api/matches/5559410836
+21/09/2020 12:23:16 INFO - https://api.opendota.com/api/matches/5559374633
+21/09/2020 12:23:17 INFO - https://api.opendota.com/api/matches/5559328120
+21/09/2020 12:23:17 INFO - https://api.opendota.com/api/matches/5559295150
+21/09/2020 12:23:18 INFO - https://api.opendota.com/api/matches/5559074099
+21/09/2020 12:23:18 INFO - https://api.opendota.com/api/matches/5559057976
+21/09/2020 12:23:18 INFO - https://api.opendota.com/api/matches/5559038890
+21/09/2020 12:23:18 INFO - https://api.opendota.com/api/matches/5559024027
+21/09/2020 12:23:19 INFO - https://api.opendota.com/api/matches/5558891156
+21/09/2020 12:23:19 INFO - https://api.opendota.com/api/matches/5558862698
+21/09/2020 12:23:19 INFO - https://api.opendota.com/api/matches/5558836520
+21/09/2020 12:23:19 INFO - https://api.opendota.com/api/matches/5558803760
+21/09/2020 12:23:20 INFO - https://api.opendota.com/api/matches/5558749458
+21/09/2020 12:23:20 INFO - https://api.opendota.com/api/matches/5558717538
+21/09/2020 12:23:20 INFO - https://api.opendota.com/api/matches/5557603504
+21/09/2020 12:23:20 INFO - https://api.opendota.com/api/matches/5557579869
+21/09/2020 12:23:20 INFO - https://api.opendota.com/api/matches/5557550905
+21/09/2020 12:23:21 INFO - https://api.opendota.com/api/matches/5557521772
+21/09/2020 12:23:21 INFO - https://api.opendota.com/api/matches/5557499209
+21/09/2020 12:23:21 INFO - https://api.opendota.com/api/matches/5555994077
+21/09/2020 12:23:22 INFO - https://api.opendota.com/api/matches/5555972925
+21/09/2020 12:23:22 INFO - https://api.opendota.com/api/matches/5555929102

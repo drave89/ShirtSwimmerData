@@ -1,5 +1,6 @@
 ﻿using ShirtSwimmersData.BusinessLogicLayer;
 using System;
+using System.Threading;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -93,6 +94,7 @@ namespace ShirtSwimmersData
         {
             foreach (var match_id in match_ids)
             {
+                // API only allows a certain number of requests
                 string url = Url.Combine(
                     ConfigurationManager.AppSettings["OpenDotaBaseUrl"],
                     "matches",
@@ -105,12 +107,18 @@ namespace ShirtSwimmersData
 
         static async Task<T> ExecuteAsnycGet<T>(string url)
         {
+            // API is throttled at 60 queries per minute, so we add a retry with wait
+            Utility.LogInfo(url);
             return await Policy
                 .Handle<FlurlHttpException>(IsWorthRetrying)
                 .WaitAndRetryAsync(new[] {
-                    TimeSpan.FromSeconds(1),
-                    TimeSpan.FromSeconds(2),
-                    TimeSpan.FromSeconds(3)
+                    TimeSpan.FromSeconds(10),
+                    TimeSpan.FromSeconds(10),
+                    TimeSpan.FromSeconds(10),
+                    TimeSpan.FromSeconds(10),
+                    TimeSpan.FromSeconds(10),
+                    TimeSpan.FromSeconds(10),
+                    TimeSpan.FromSeconds(10)
                 },
                 (result, timeSpan, retryCount, context) =>
                 {
