@@ -1,18 +1,15 @@
-﻿using ShirtSwimmersData.BusinessLogicLayer;
-using System;
-using System.Threading;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
+﻿using System;
+using System.Configuration;
 using System.Threading.Tasks;
-using System.Web;
+using System.Collections.Generic;
 
 using Flurl;
 using Polly;
 using Flurl.Http;
-using System.Configuration;
-using System.Runtime.InteropServices;
+
 using ShirtSwimmersData.Common;
+using ShirtSwimmersData.BusinessLogicLayer;
+using System.Linq;
 
 namespace ShirtSwimmersData
 {
@@ -35,7 +32,15 @@ namespace ShirtSwimmersData
             try
             {
                 var match_ids = await GetPlayerMatches();
+                var highest_match_id = SQL.GetHighestMatchId();
+
+                // Only need to insert the ones we haven't seen before.
+                match_ids = match_ids.Where(m => m > highest_match_id).ToList();
+
                 ParseMatches(match_ids).Wait();
+
+                Utility.LogInfo("");
+                Utility.LogInfo(match_ids.Count() + " games parsed.", true);
             } 
             catch (Exception ex)
             {
@@ -51,8 +56,8 @@ namespace ShirtSwimmersData
             int minDiff = ts.Minutes;
             int secDiff = ts.Seconds;
 
-            Utility.LogInfo("");
             Utility.LogInfo("ShirtSwimmers program completed in " + hourDiff.ToString().PadLeft(2, '0') + ":" + minDiff.ToString().PadLeft(2, '0') + ":" + secDiff.ToString().PadLeft(2, '0'), true);
+            Console.ReadLine();
         }
 
         static async Task<List<long>> GetPlayerMatches()

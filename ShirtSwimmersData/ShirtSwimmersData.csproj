@@ -63,6 +63,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BusinessLogicLayer\SQL.cs" />
     <Compile Include="BusinessLogicLayer\Utility.cs" />
     <Compile Include="Common\Player.cs" />
     <Compile Include="Common\Match.cs" />
