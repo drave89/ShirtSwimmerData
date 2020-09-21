@@ -74,9 +74,7 @@
     <None Include="App.config" />
     <None Include="packages.config" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Logs\" />
-  </ItemGroup>
+  <ItemGroup />
   <ItemGroup>
     <Content Include="dota_logo.ico" />
     <Content Include="SQL\create_matches_table.sql" />
