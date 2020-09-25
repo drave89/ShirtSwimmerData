@@ -68,9 +68,9 @@ namespace ShirtSwimmersData
                 ConfigurationManager.AppSettings["ScottId"],
                 ConfigurationManager.AppSettings["DominicId"],
                 ConfigurationManager.AppSettings["BlairId"],
-                //ConfigurationManager.AppSettings["GeorgeId"],
+                ConfigurationManager.AppSettings["GeorgeId"],
                 ConfigurationManager.AppSettings["KieferId"],
-                //ConfigurationManager.AppSettings["NickId"],
+                ConfigurationManager.AppSettings["NickId"],
                 ConfigurationManager.AppSettings["BenId"]
             };
 
