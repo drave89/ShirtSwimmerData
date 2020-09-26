@@ -18,7 +18,10 @@ namespace ShirtSwimmersData.BusinessLogicLayer
                 SqlDataReader reader = command.ExecuteReader();
                 while (reader.Read())
                 {
-                    result = reader.GetInt64(0);
+                    if (!reader.IsDBNull(0))
+                    {
+                        result = reader.GetInt64(0);
+                    }
                 }
 
                 reader.Close();
@@ -46,6 +49,7 @@ namespace ShirtSwimmersData.BusinessLogicLayer
 
             using (var conn = new SqlConnection(ConfigurationManager.ConnectionStrings["ShirtSwimmers"].ToString()))
             {
+                conn.Open();
                 var command = new SqlCommand(query, conn);
                 command.ExecuteNonQuery();
             }
@@ -56,7 +60,7 @@ namespace ShirtSwimmersData.BusinessLogicLayer
             string query = "INSERT INTO [Shirtswimmers].[dbo].[Players] VALUES (";
             query += player.match_id.ToString() + ",";
             query += FormatNullableInt(player.player_slot) + ",";
-            query += player.account_id == null ? "NULL" : player.account_id.ToString();
+            query += (player.account_id == null ? "NULL" : player.account_id.ToString()) + ",";
             query += FormatNullableInt(player.kills) + ",";
             query += FormatNullableInt(player.deaths) + ",";
             query += FormatNullableInt(player.assists) + ",";
@@ -69,7 +73,7 @@ namespace ShirtSwimmersData.BusinessLogicLayer
             query += FormatNullableInt(player.hero_healing) + ",";
             query += FormatNullableInt(player.tower_damage) + ",";
             query += FormatNullableInt(player.xp_per_min) + ",";
-            query += "'" + player.personaname == null ? "" : player.personaname + "',";
+            query += "'" + (player.personaname == null ? "" : player.personaname.Replace("'", "''")) + "',";
             query += FormatNullableBool(player.isRadiant) + ",";
             query += FormatNullableInt(player.win) + ",";
             query += FormatNullableInt(player.lose) + ",";
@@ -77,6 +81,7 @@ namespace ShirtSwimmersData.BusinessLogicLayer
             query += FormatNullableInt(player.total_xp) + ",";
             query += FormatNullableInt(player.kda) + ",";
             query += FormatNullableInt(player.abandons) + ",";
+            query += FormatNullableInt(player.hero_id) + ",";
             query += FormatNullableInt(player.item_0) + ",";
             query += FormatNullableInt(player.item_1) + ",";
             query += FormatNullableInt(player.item_2) + ",";
@@ -91,6 +96,7 @@ namespace ShirtSwimmersData.BusinessLogicLayer
 
             using (var conn = new SqlConnection(ConfigurationManager.ConnectionStrings["ShirtSwimmers"].ToString()))
             {
+                conn.Open();
                 var command = new SqlCommand(query, conn);
                 command.ExecuteNonQuery();
             }

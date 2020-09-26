@@ -289,3 +289,162 @@
 21/09/2020 12:56:23 INFO - 
 21/09/2020 12:56:23 INFO - ShirtSwimmers program completed in 00:00:04
 21/09/2020 12:56:23 INFO - 
+25/09/2020 18:54:46 INFO - ============================================================
+25/09/2020 18:54:46 INFO - 
+25/09/2020 18:54:46 INFO - Start time: 09-25-2020 06:54:46 PM
+25/09/2020 18:54:46 INFO - 
+25/09/2020 18:54:46 INFO - ============================================================
+25/09/2020 18:54:46 INFO - 
+25/09/2020 18:54:46 INFO - https://api.opendota.com/api/players/2679394/matches
+25/09/2020 18:54:47 INFO - https://api.opendota.com/api/players/49314460/matches
+25/09/2020 18:54:48 INFO - https://api.opendota.com/api/players/156098196/matches
+25/09/2020 18:54:48 INFO - https://api.opendota.com/api/players/143072496/matches
+25/09/2020 18:54:49 INFO - https://api.opendota.com/api/players/866464658/matches
+25/09/2020 18:54:50 INFO - https://api.opendota.com/api/players/7644854/matches
+25/09/2020 18:54:50 INFO - https://api.opendota.com/api/players/96909728/matches
+25/09/2020 18:54:51 ERROR - Data is Null. This method or property cannot be called on Null values.
+25/09/2020 18:54:51 INFO - ShirtSwimmers program completed in 00:00:04
+25/09/2020 18:54:51 INFO - 
+25/09/2020 18:55:01 INFO - ============================================================
+25/09/2020 18:55:01 INFO - 
+25/09/2020 18:55:01 INFO - Start time: 09-25-2020 06:55:01 PM
+25/09/2020 18:55:01 INFO - 
+25/09/2020 18:55:01 INFO - ============================================================
+25/09/2020 18:55:01 INFO - 
+25/09/2020 18:55:01 INFO - https://api.opendota.com/api/players/2679394/matches
+25/09/2020 18:55:02 INFO - https://api.opendota.com/api/players/49314460/matches
+25/09/2020 18:55:03 INFO - https://api.opendota.com/api/players/156098196/matches
+25/09/2020 18:55:03 INFO - https://api.opendota.com/api/players/143072496/matches
+25/09/2020 18:55:04 INFO - https://api.opendota.com/api/players/866464658/matches
+25/09/2020 18:55:05 INFO - https://api.opendota.com/api/players/7644854/matches
+25/09/2020 18:55:05 INFO - https://api.opendota.com/api/players/96909728/matches
+25/09/2020 18:55:11 ERROR - Data is Null. This method or property cannot be called on Null values.
+25/09/2020 18:55:11 INFO - ShirtSwimmers program completed in 00:00:09
+25/09/2020 18:55:11 INFO - 
+25/09/2020 18:55:21 INFO - ============================================================
+25/09/2020 18:55:21 INFO - 
+25/09/2020 18:55:21 INFO - Start time: 09-25-2020 06:55:21 PM
+25/09/2020 18:55:21 INFO - 
+25/09/2020 18:55:21 INFO - ============================================================
+25/09/2020 18:55:21 INFO - 
+25/09/2020 18:55:21 INFO - https://api.opendota.com/api/players/2679394/matches
+25/09/2020 18:55:22 INFO - https://api.opendota.com/api/players/49314460/matches
+25/09/2020 18:55:23 INFO - https://api.opendota.com/api/players/156098196/matches
+25/09/2020 18:55:23 INFO - https://api.opendota.com/api/players/143072496/matches
+25/09/2020 18:55:24 INFO - https://api.opendota.com/api/players/866464658/matches
+25/09/2020 18:55:25 INFO - https://api.opendota.com/api/players/7644854/matches
+25/09/2020 18:55:25 INFO - https://api.opendota.com/api/players/96909728/matches
+25/09/2020 18:58:04 INFO - ============================================================
+25/09/2020 18:58:04 INFO - 
+25/09/2020 18:58:04 INFO - Start time: 09-25-2020 06:58:04 PM
+25/09/2020 18:58:04 INFO - 
+25/09/2020 18:58:04 INFO - ============================================================
+25/09/2020 18:58:04 INFO - 
+25/09/2020 18:58:04 INFO - https://api.opendota.com/api/players/2679394/matches
+25/09/2020 18:58:05 INFO - https://api.opendota.com/api/players/49314460/matches
+25/09/2020 18:58:05 INFO - https://api.opendota.com/api/players/156098196/matches
+25/09/2020 18:58:06 INFO - https://api.opendota.com/api/players/143072496/matches
+25/09/2020 18:58:06 INFO - https://api.opendota.com/api/players/866464658/matches
+25/09/2020 18:58:07 INFO - https://api.opendota.com/api/players/7644854/matches
+25/09/2020 18:58:07 INFO - https://api.opendota.com/api/players/96909728/matches
+25/09/2020 18:58:35 INFO - https://api.opendota.com/api/matches/20321488
+25/09/2020 18:58:35 ERROR - One or more errors occurred.
+25/09/2020 18:58:35 ERROR - ExecuteNonQuery requires an open and available Connection. The connection's current state is closed.
+25/09/2020 18:58:35 INFO - ShirtSwimmers program completed in 00:00:31
+25/09/2020 18:58:35 INFO - 
+25/09/2020 19:00:12 INFO - ============================================================
+25/09/2020 19:00:12 INFO - 
+25/09/2020 19:00:12 INFO - Start time: 09-25-2020 07:00:12 PM
+25/09/2020 19:00:12 INFO - 
+25/09/2020 19:00:12 INFO - ============================================================
+25/09/2020 19:00:12 INFO - 
+25/09/2020 19:00:12 INFO - https://api.opendota.com/api/players/2679394/matches
+25/09/2020 19:03:21 INFO - ============================================================
+25/09/2020 19:03:21 INFO - 
+25/09/2020 19:03:21 INFO - Start time: 09-25-2020 07:03:21 PM
+25/09/2020 19:03:21 INFO - 
+25/09/2020 19:03:21 INFO - ============================================================
+25/09/2020 19:03:21 INFO - 
+25/09/2020 19:03:21 INFO - https://api.opendota.com/api/players/2679394/matches
+25/09/2020 19:03:22 INFO - https://api.opendota.com/api/players/49314460/matches
+25/09/2020 19:03:23 INFO - https://api.opendota.com/api/players/156098196/matches
+25/09/2020 19:03:23 INFO - https://api.opendota.com/api/players/143072496/matches
+25/09/2020 19:03:24 INFO - https://api.opendota.com/api/players/866464658/matches
+25/09/2020 19:03:24 INFO - https://api.opendota.com/api/players/7644854/matches
+25/09/2020 19:03:25 INFO - https://api.opendota.com/api/players/96909728/matches
+25/09/2020 19:03:25 INFO - https://api.opendota.com/api/matches/20326339
+25/09/2020 19:04:13 INFO - ============================================================
+25/09/2020 19:04:13 INFO - 
+25/09/2020 19:04:13 INFO - Start time: 09-25-2020 07:04:13 PM
+25/09/2020 19:04:13 INFO - 
+25/09/2020 19:04:13 INFO - ============================================================
+25/09/2020 19:04:13 INFO - 
+25/09/2020 19:04:13 INFO - https://api.opendota.com/api/players/2679394/matches
+25/09/2020 19:04:15 INFO - https://api.opendota.com/api/players/49314460/matches
+25/09/2020 19:04:17 INFO - https://api.opendota.com/api/players/156098196/matches
+25/09/2020 19:04:18 INFO - https://api.opendota.com/api/players/143072496/matches
+25/09/2020 19:04:18 INFO - https://api.opendota.com/api/players/866464658/matches
+25/09/2020 19:04:19 INFO - https://api.opendota.com/api/players/7644854/matches
+25/09/2020 19:04:19 INFO - https://api.opendota.com/api/players/96909728/matches
+25/09/2020 19:04:20 INFO - https://api.opendota.com/api/matches/20395177
+25/09/2020 19:08:16 INFO - ============================================================
+25/09/2020 19:08:16 INFO - 
+25/09/2020 19:08:16 INFO - Start time: 09-25-2020 07:08:16 PM
+25/09/2020 19:08:16 INFO - 
+25/09/2020 19:08:16 INFO - ============================================================
+25/09/2020 19:08:16 INFO - 
+25/09/2020 19:08:16 INFO - https://api.opendota.com/api/players/2679394/matches
+25/09/2020 19:08:17 INFO - https://api.opendota.com/api/players/49314460/matches
+25/09/2020 19:08:18 INFO - https://api.opendota.com/api/players/156098196/matches
+25/09/2020 19:08:18 INFO - https://api.opendota.com/api/players/143072496/matches
+25/09/2020 19:08:19 INFO - https://api.opendota.com/api/players/866464658/matches
+25/09/2020 19:08:19 INFO - https://api.opendota.com/api/players/7644854/matches
+25/09/2020 19:08:20 INFO - https://api.opendota.com/api/players/96909728/matches
+25/09/2020 19:08:21 INFO - https://api.opendota.com/api/matches/20321488
+25/09/2020 19:09:20 INFO - ============================================================
+25/09/2020 19:09:20 INFO - 
+25/09/2020 19:09:20 INFO - Start time: 09-25-2020 07:09:20 PM
+25/09/2020 19:09:20 INFO - 
+25/09/2020 19:09:20 INFO - ============================================================
+25/09/2020 19:09:20 INFO - 
+25/09/2020 19:09:20 INFO - https://api.opendota.com/api/players/2679394/matches
+25/09/2020 19:09:21 INFO - https://api.opendota.com/api/players/49314460/matches
+25/09/2020 19:09:21 INFO - https://api.opendota.com/api/players/156098196/matches
+25/09/2020 19:09:22 INFO - https://api.opendota.com/api/players/143072496/matches
+25/09/2020 19:09:23 INFO - https://api.opendota.com/api/players/866464658/matches
+25/09/2020 19:09:23 INFO - https://api.opendota.com/api/players/7644854/matches
+25/09/2020 19:09:24 INFO - https://api.opendota.com/api/players/96909728/matches
+25/09/2020 19:09:24 INFO - https://api.opendota.com/api/matches/20395177
+25/09/2020 19:11:54 INFO - ============================================================
+25/09/2020 19:11:54 INFO - 
+25/09/2020 19:11:54 INFO - Start time: 09-25-2020 07:11:54 PM
+25/09/2020 19:11:54 INFO - 
+25/09/2020 19:11:54 INFO - ============================================================
+25/09/2020 19:11:54 INFO - 
+25/09/2020 19:11:54 INFO - https://api.opendota.com/api/players/2679394/matches
+25/09/2020 19:11:55 INFO - https://api.opendota.com/api/players/49314460/matches
+25/09/2020 19:11:56 INFO - https://api.opendota.com/api/players/156098196/matches
+25/09/2020 19:11:56 INFO - https://api.opendota.com/api/players/143072496/matches
+25/09/2020 19:11:57 INFO - https://api.opendota.com/api/players/866464658/matches
+25/09/2020 19:11:58 INFO - https://api.opendota.com/api/players/7644854/matches
+25/09/2020 19:11:58 INFO - https://api.opendota.com/api/players/96909728/matches
+25/09/2020 19:11:59 INFO - https://api.opendota.com/api/matches/20321488
+25/09/2020 19:12:11 ERROR - One or more errors occurred.
+25/09/2020 19:12:11 ERROR - Invalid column name 'NULL11'.
+Column name or number of supplied values does not match table definition.
+25/09/2020 19:12:11 INFO - ShirtSwimmers program completed in 00:00:16
+25/09/2020 19:12:11 INFO - 
+25/09/2020 19:12:43 INFO - ============================================================
+25/09/2020 19:12:43 INFO - 
+25/09/2020 19:12:43 INFO - Start time: 09-25-2020 07:12:43 PM
+25/09/2020 19:12:43 INFO - 
+25/09/2020 19:12:43 INFO - ============================================================
+25/09/2020 19:12:43 INFO - 
+25/09/2020 19:12:43 INFO - https://api.opendota.com/api/players/2679394/matches
+25/09/2020 19:12:43 INFO - https://api.opendota.com/api/players/49314460/matches
+25/09/2020 19:12:44 INFO - https://api.opendota.com/api/players/156098196/matches
+25/09/2020 19:12:44 INFO - https://api.opendota.com/api/players/143072496/matches
+25/09/2020 19:12:45 INFO - https://api.opendota.com/api/players/866464658/matches
+25/09/2020 19:12:46 INFO - https://api.opendota.com/api/players/7644854/matches
+25/09/2020 19:12:46 INFO - https://api.opendota.com/api/players/96909728/matches
+25/09/2020 19:12:47 INFO - https://api.opendota.com/api/matches/20326339

@@ -12,7 +12,6 @@ C:\Users\Scott\Source\Repos\ShirtSwimmerData\ShirtSwimmersData\bin\Debug\log4net
 C:\Users\Scott\Source\Repos\ShirtSwimmerData\ShirtSwimmersData\bin\Debug\Newtonsoft.Json.xml
 C:\Users\Scott\Source\Repos\ShirtSwimmerData\ShirtSwimmersData\bin\Debug\Polly.pdb
 C:\Users\Scott\Source\Repos\ShirtSwimmerData\ShirtSwimmersData\bin\Debug\Polly.xml
-C:\Users\Scott\Source\Repos\ShirtSwimmerData\ShirtSwimmersData\obj\Debug\ShirtSwimmersData.csprojAssemblyReference.cache
 C:\Users\Scott\Source\Repos\ShirtSwimmerData\ShirtSwimmersData\obj\Debug\ShirtSwimmersData.csproj.CoreCompileInputs.cache
 C:\Users\Scott\Source\Repos\ShirtSwimmerData\ShirtSwimmersData\obj\Debug\ShirtSwimmersData.csproj.CopyComplete
 C:\Users\Scott\Source\Repos\ShirtSwimmerData\ShirtSwimmersData\obj\Debug\ShirtSwimmersData.exe
