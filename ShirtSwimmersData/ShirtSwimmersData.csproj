@@ -78,8 +78,13 @@
   <ItemGroup />
   <ItemGroup>
     <Content Include="dota_logo.ico" />
+    <Content Include="SQL\create_gamemodes_table.sql" />
+    <Content Include="SQL\create_heroes_table.sql" />
+    <Content Include="SQL\create_items_table.sql" />
+    <Content Include="SQL\create_lobbytypes_table.sql" />
     <Content Include="SQL\create_matches_table.sql" />
     <Content Include="SQL\create_players_table.sql" />
+    <Content Include="SQL\create_theboys_table.sql" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

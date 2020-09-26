@@ -1,3 +1,5 @@
+USE [Shirtswimmers]
+
 CREATE TABLE GameModes (Id INT, Name VARCHAR(250))
 INSERT INTO GameModes VALUES (0, 'Unknown')
 INSERT INTO GameModes VALUES (1, 'All Pick')

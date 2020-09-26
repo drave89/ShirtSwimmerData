@@ -1,3 +1,5 @@
+USE [Shirtswimmers]
+
 CREATE TABLE Heroes (Id INT, Name VARCHAR(250))
 INSERT INTO Heroes VALUES (1, 'Anti-Mage')
 INSERT INTO Heroes VALUES (2, 'Axe')

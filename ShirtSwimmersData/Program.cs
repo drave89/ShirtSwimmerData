@@ -37,7 +37,7 @@ namespace ShirtSwimmersData
                 // Only need to insert the ones we haven't seen before.
                 match_ids = match_ids.Where(m => m > highest_match_id).ToList();
 
-                ParseMatches(match_ids.OrderBy(m => m.match_id)).Wait();
+                ParseMatches(match_ids.OrderBy(z => z).ToList()).Wait();
 
                 Utility.LogInfo("");
                 Utility.LogInfo(match_ids.Count() + " games parsed.", true);
@@ -106,7 +106,13 @@ namespace ShirtSwimmersData
                     match_id.ToString()
                 );
 
-                var result = await ExecuteAsnycGet<Match>(url);
+                var match = await ExecuteAsnycGet<Match>(url);
+
+                SQL.AddMatch(match);
+                foreach (var player in match.players)
+                {
+                    SQL.AddPlayer(player);
+                }
             }
         }
 

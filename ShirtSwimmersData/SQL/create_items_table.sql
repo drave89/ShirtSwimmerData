@@ -1,3 +1,5 @@
+USE [Shirtswimmers]
+
 CREATE TABLE Items (Id INT, Name VARCHAR(250))
 INSERT INTO Items VALUES (1, 'blink')
 INSERT INTO Items VALUES (2, 'blades_of_attack')

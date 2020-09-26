@@ -1,3 +1,5 @@
+USE [Shirtswimmers]
+
 CREATE TABLE TheBoys (Id BIGINT, Name VARCHAR(250))
 INSERT INTO TheBoys VALUES (2679394, 'Scott')
 INSERT INTO TheBoys VALUES (49314460, 'Dominic')

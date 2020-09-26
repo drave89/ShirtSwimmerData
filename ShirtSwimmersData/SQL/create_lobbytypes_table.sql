@@ -1,3 +1,5 @@
+USE [Shirtswimmers]
+
 CREATE TABLE LobbyTypes (Id INT, Name VARCHAR(250))
 INSERT INTO LobbyTypes VALUES (0, 'Normal')
 INSERT INTO LobbyTypes VALUES (1, 'Practice')
