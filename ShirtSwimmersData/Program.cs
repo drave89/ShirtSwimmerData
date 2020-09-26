@@ -129,7 +129,15 @@ namespace ShirtSwimmersData
                     TimeSpan.FromSeconds(10),
                     TimeSpan.FromSeconds(10),
                     TimeSpan.FromSeconds(10),
-                    TimeSpan.FromSeconds(10)
+                    TimeSpan.FromSeconds(10),
+                    TimeSpan.FromSeconds(30),
+                    TimeSpan.FromSeconds(30),
+                    TimeSpan.FromSeconds(30),
+                    TimeSpan.FromSeconds(30),
+                    TimeSpan.FromSeconds(30),
+                    TimeSpan.FromSeconds(30),
+                    TimeSpan.FromSeconds(30),
+                    TimeSpan.FromSeconds(30),
                 },
                 (result, timeSpan, retryCount, context) =>
                 {
